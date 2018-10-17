@@ -1,7 +1,7 @@
 {
   "interactionModel": {
     "languageModel": {
-      "invocationName": "reindeer trivia",
+      "invocationName": "game of thrones trivia",
       "intents": [
         {
           "name": "AMAZON.CancelIntent",
@@ -35,6 +35,7 @@
         {
           "name": "DontKnowIntent",
           "samples": [
+            "not sure",
             "i don't know",
             "don't know",
             "i don't know that one",
